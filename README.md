@@ -9,7 +9,7 @@ Merchants selling their products on the Web often ask their customers to review 
 
 SentiSys is a system that collects the necessary information via a form and stores the information in its database. Then, SentiSys detects the sentiment of the customers’ review whether it is positive, negative, or neutral, and assigns a score to the reviews ranging from zero to one, where the higher the score, the more positive the score is. Finally, the data is visualized into easily understandable charts. There are in total four charts, all with their own purpose, in which it relates to our study objectives. 
 
-![](/images/Income%20Census%201.png)
+![](/images/SentiSys%201.png)
 
 ![](/images/SentiSys%202.png)
 
