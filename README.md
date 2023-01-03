@@ -9,7 +9,7 @@ Merchants selling their products on the Web often ask their customers to review 
 
 SentiSys is a system that collects the necessary information via a form and stores the information in its database. Then, SentiSys detects the sentiment of the customers’ review whether it is positive, negative, or neutral, and assigns a score to the reviews ranging from zero to one, where the higher the score, the more positive the score is. Finally, the data is visualized into easily understandable charts. There are in total four charts, all with their own purpose, in which it relates to our study objectives. 
 
-# Project 2 : Work Class & Income Status of American Population
+# [Project 2 : Work Class & Income Status of American Population](https://github.com/Ziem99/Income-census-of-american-population)
 The information of 32,562 adults in the United States of America (USA) from 1994 are analyzed in this research. Gender, age, race, working class, education level, income, and other factors are all included in this study's analysis. In order to develop a conclusion for this study, the trend and other key facts are noted.
 
 According to this research, by studying the feature significance of the US adult income dataset, we hope to gain a better understanding of its relevance. Between the dependent and independent variables, exploratory analysis will be performed.
