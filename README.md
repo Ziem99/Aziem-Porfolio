@@ -14,7 +14,7 @@ SentiSys is a system that collects the necessary information via a form and stor
 ![](https://github.com/Ziem99/Aziem-Porfolio/blob/main/images/SentiSys%203.png)
 ![](https://github.com/Ziem99/Aziem-Porfolio/blob/main/images/SentiSys%204.png)
 
-# [Project 2 : Work Class & Income Status of American Population](https://github.com/Ziem99/Income-census-of-american-population)
+# [Project 2 : Income Census of American Population](https://github.com/Ziem99/Income-census-of-american-population)
 The information of 32,562 adults in the United States of America (USA) from 1994 are analyzed in this research. Gender, age, race, working class, education level, income, and other factors are all included in this study's analysis. In order to develop a conclusion for this study, the trend and other key facts are noted.
 
 According to this research, by studying the feature significance of the US adult income dataset, we hope to gain a better understanding of its relevance. Between the dependent and independent variables, exploratory analysis will be performed.
