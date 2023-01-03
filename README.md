@@ -1,6 +1,6 @@
 # Aziem's Projects
 
-# [Project 1 : Customer's Sentiment Analytic System]() 
+# [Project 1 : Customer's Sentiment Analytic System](https://github.com/Ziem99/Sentisys) 
 Merchants selling their products on the Web often ask their customers to review the products they have purchased and the associated services. As e-commerce is set in trend, the number of customer reviews that a product receives grows rapidly. For a popular product, the number of reviews can be in a hundred or even thousands. Therefore, from the merchants’ perspective, it is hard to get an overview from the abundance of text reviews which hinders them from making precise business decisions. This study aims to
 
 * Find the sentiment of the customers’ review, whether it is positive, negative, or neutral 
