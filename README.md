@@ -27,5 +27,5 @@ This study aims to
 * To determine the working sectors based on sex, age & occupation type.
 * To find the relationship between income status, country of origin & maritial status.
 
-![](https://github.com/Ziem99/Aziem-Porfolio/blob/main/images/Dashboard%20Income%201.png)
-![](https://github.com/Ziem99/Aziem-Porfolio/blob/main/images/Dashboard%20Income%202.png)
+![](https://github.com/Ziem99/Aziem-Porfolio/blob/main/images/Income%20Census%201.png)
+![](https://github.com/Ziem99/Aziem-Porfolio/blob/main/images/Income%20Census%202.png)
